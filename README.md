@@ -16,7 +16,7 @@ To create a program to read data from an Excel data spreadsheet (.xlsx) and conv
 - [x] Title of chart is displayed
 - [x] X-Axis of chart is displayed
 - [x] Y-Axis of chart is displayed
-- [] Target line of chart is displayed
+- [ ] Target line of chart is displayed
 
 ## Demo 
 ![Sample Program Generated Bar Chart](sample_program_generated_barchart.png)
