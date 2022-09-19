@@ -4,7 +4,7 @@
 
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [GIF](#GIF)
+3. [Demo](#Demo)
 
 ## Overview
 
@@ -18,5 +18,5 @@ To create a program to read data from an Excel data spreadsheet (.xlsx) and conv
 - [x] Y-Axis of chart is displayed
 - [] Target line of chart is displayed
 
-## GIF
+## Demo 
 ![Sample Program Generated Bar Chart](sample_program_generated_barchart.png)
