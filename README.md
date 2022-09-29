@@ -10,7 +10,7 @@
 
 **Goal**
 
-To create a program to read data from an Excel data spreadsheet (.xlsx) and convert it to a Excel CSV file which is finally converted to a bar chart.
+To create a program to read data from an Excel data spreadsheet (.xlsx) and convert it to an Excel CSV file which is finally converted to a bar chart.
 
 ## Product Spec
 - [x] Title of chart is displayed
